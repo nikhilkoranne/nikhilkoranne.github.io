@@ -1,4 +1,3 @@
-## Welcome
+## Welcome,
 
-Hey,
-Please ping me when you can see this up and running!
+Please have patience this is in progress!
