@@ -50,11 +50,11 @@ gulp.task('vendor', function() {
     ])
     .pipe(gulp.dest('./vendor/jquery-easing'))
 
-  // Magnific Popup
+  // Vide.js
   gulp.src([
-      './node_modules/magnific-popup/dist/*'
+      './node_modules/vide/dist/*'
     ])
-    .pipe(gulp.dest('./vendor/magnific-popup'))
+    .pipe(gulp.dest('./vendor/vide'))
 
 });
 
